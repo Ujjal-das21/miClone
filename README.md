@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Logs:              https://app.netlify.com/sites/mistoremyclone/deploys/62545c0ca9eddc1190f33a95
+Unique Deploy URL: https://62545c0ca9eddc1190f33a95--mistoremyclone.netlify.app
+Website URL:       https://mistoremyclone.netlify.app
 
 ## Available Scripts
 
